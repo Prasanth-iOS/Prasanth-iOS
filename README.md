@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prasanth
-- 👀 I’m a Lead iOS Application Developer // Passionate about writing clean code leveraging power of Protocols and Value Types in Swift, and design patterns
+- 👀 I’m a Lead iOS Application Developer // Passionate about problem solving and writing clean code by following proper design patterns, SOLID principles and also leveraging power of Protocols and Value Types in Swift.
 - 📫 I'm reachable at prasanth.iosdev@gmail.com
 
 <!---
